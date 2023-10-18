@@ -50,6 +50,16 @@
        "certification" : "free"
      },
       {
+       "id" :  17,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "HTML & CSS Crash Course",
+       "link" : "https://scrimba.com/learn/introhtmlcss",
+       "difficulty" : "intermediate",
+       "module_number" : 0,
+        "certification" : "free"
+     },
+      {
        "id" :  13,
        "platform" : "scrimba",
        "free_course" : "yes",
