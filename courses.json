@@ -251,6 +251,16 @@
        "certification" : "free"
      },
      {
+       "id" :  50,
+       "platform" : "scrimba",
+       "free_course" : "no",
+       "course_name" : "Learn Styled Components in React",
+       "link" : "https://scrimba.com/learn/styledcomponents",
+       "difficulty" : "intermediate",
+       "module_number" : 18,
+       "certification" : "paid"
+      },
+     {
        "id" :  45,
        "platform" : "scrimba",
        "free_course" : "yes",
