@@ -274,8 +274,8 @@
        "id" :  46,
        "platform" : "scrimba",
        "free_course" : "yes",
-       "course_name" : "Learn Practical math for frontend developers",
-       "link" : "https://scrimba.com/learn/practicalmath",
+       "course_name" : "Introduction to ES6+",
+       "link" : "https://scrimba.com/learn/introtoes6",
        "difficulty" : "intermediate",
        "module_number" : 0,
        "certification" : "free"
