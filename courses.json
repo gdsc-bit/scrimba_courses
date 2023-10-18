@@ -50,6 +50,16 @@
        "certification" : "free"
      },
       {
+       "id" :  15,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn CSS Grid",
+       "link" : "https://scrimba.com/learn/cssgrid",
+       "difficulty" : "intermediate",
+        "module_number" : 0,
+       "certification" : "free"
+     },
+      {
        "id" :  17,
        "platform" : "scrimba",
        "free_course" : "yes",
