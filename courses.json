@@ -420,4 +420,14 @@
        "module_number" : 12,
        "certification" : "paid"
     }
+      {
+       "id" : 27,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "The Frontend Developer Career Path",
+       "link" : "https://scrimba.com/learn/frontend",
+       "difficulty" : "intermediate",
+       "module_number" : 12,
+       "certification" : "free"
+    }
 ]
