@@ -60,6 +60,16 @@
        "certification" : "free"
      },
       {
+       "id" :  16,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Build and Deploy Your Portfolio",
+       "link" : "https://scrimba.com/learn/portfolio",
+       "difficulty" : "intermediate",
+       "module_number" : 0,
+       "certification" : "free"
+     },
+    {
        "id" :  15,
        "platform" : "scrimba",
        "free_course" : "yes",
