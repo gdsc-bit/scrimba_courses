@@ -419,5 +419,16 @@
        "difficulty" : "intermediate",
        "module_number" : 12,
        "certification" : "paid"
+    },
+    {
+       "id" :  50,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Bootstrap",
+       "link" : "https://scrimba.com/learn/bootstrap4",
+       "difficulty" : "intermediate",
+       "module_number" : 12,
+       "certification" : "free"
     }
+     
 ]
