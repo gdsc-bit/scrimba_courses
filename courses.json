@@ -419,5 +419,15 @@
        "difficulty" : "intermediate",
        "module_number" : 12,
        "certification" : "paid"
+    },
+     {
+       "id" :  26,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Build a Color tool in vanilla Javascript",
+       "link" : "https://scrimba.com/learn/javascriptcolortool",
+       "difficulty" : "intermediate",
+       "module_number" : 20,
+       "certification" : "free"
     }
 ]
