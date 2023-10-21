@@ -420,6 +420,16 @@
        "module_number" : 12,
        "certification" : "paid"
     },
+     {
+       "id" :  24,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn D3",
+       "link" : "https://scrimba.com/learn/d3js",
+       "difficulty" : "intermediate",
+       "module_number" : 12,
+       "certification" : "free"
+     },
       {
        "id" :  23,
        "platform" : "scrimba",
