@@ -420,4 +420,13 @@
        "module_number" : 12,
        "certification" : "paid"
     }
-]
+ {
+       "id" :  27,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Imba",
+       "link" : "https://scrimba.com/learn/imba",
+       "difficulty" : "intermediate",
+       "module_number" : 41,
+       "certification" : "paid"
+    }]
