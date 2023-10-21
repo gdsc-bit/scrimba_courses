@@ -449,5 +449,15 @@
        "difficulty" : "intermediate",
        "module_number" : 12,
        "certification" : "paid"
+    },
+      {
+       "id" :  47,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Advanced React",
+       "link" : "https://scrimba.com/learn/react",
+       "difficulty" : "Advanced React",
+       "module_number" : 3,
+       "certification" : "paid"
     }
 ]
