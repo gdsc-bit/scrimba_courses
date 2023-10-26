@@ -499,5 +499,15 @@
        "difficulty" : "Advanced React",
        "module_number" : 3,
        "certification" : "paid"
+    },
+     {
+       "id" :  48,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Learn Bulma CSS",
+       "link" : "https://scrimba.com/learn/bulma",
+       "difficulty" : "Intermediate",
+       "module_number" : 13,
+       "certification" : "paid"
     }
 ]
