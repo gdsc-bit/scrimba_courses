@@ -500,4 +500,14 @@
        "module_number" : 3,
        "certification" : "paid"
     }
+     {
+       "id" :  48,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "Build a Color Tool in Vanilla JavaScript",
+       "link" : "https://scrimba.com/learn/Build%20a%20Color%20Tool%20in%20Vanilla%20JavaScript",
+       "difficulty" : "intermediate",
+       "module_number" : 20,
+       "certification" : "paid"
+    }
 ]
