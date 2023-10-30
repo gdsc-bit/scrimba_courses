@@ -499,5 +499,15 @@
        "difficulty" : "Advanced React",
        "module_number" : 3,
        "certification" : "paid"
-    }
+    },
+     {
+       "id" :  48,
+       "platform" : "scrimba",
+       "free_course" : "yes",
+       "course_name" : "AI Coding for Non-Coders",
+       "link" : "https://scrimba.com/allcourses?topic=javascript",
+       "difficulty" : "beginner",
+       "module_number" : 30,
+       "certification" : "free"
+    },
 ]
